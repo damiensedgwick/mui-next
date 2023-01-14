@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@babel/core": ">=7.0.0 <8.0.0",
+    "@babel/core": "^7.20.12",
     "@emotion/cache": "latest",
     "@emotion/react": "latest",
     "@emotion/server": "latest",
@@ -25,7 +25,7 @@
     "@types/react": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.3",
     "typescript": "latest"
   }
 }
