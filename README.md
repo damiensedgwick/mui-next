@@ -4,7 +4,8 @@ A minimal setup for getting starterd using [Material UI v5](https://mui.com/mate
 and [NextJS v14](https://nextjs.org/docs) using the [App Router](https://nextjs.org/docs/app)
 
 Using this template, you should be able to take advantage of the latest and greatest
-React features such as server components, server actions and building a clean interface using MUI.
+React features such as server components and server actions whilst using MUI to build a
+sleek and modern looking interface.
 
 ## Getting Started
 To use this template, you can clone this repository or click the 'Use this template' button above.
